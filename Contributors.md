@@ -150,6 +150,7 @@
 - [Bony Sureliya] (https://github.com/bonysureliya)
 - [Dhruv Gajjar](https://github.com/Dhruv-Gajjar)
 - [Stephen]
+- Jon
 - [Antonios Papadakis](https://github.com/one-and-only)
 - [ZLH](https://github.com/Zawlinhtike397)
 - [Dominic Duke](https://github.com/domduke)
